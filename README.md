@@ -9,5 +9,8 @@ i make the index html and linked the other html files to the index
 i have done the acarajé html file
 
 4th commit
-i have done the Couscous file
+i have done the couscous html file
+
+5th commit
+i have done the french fries html file
 
