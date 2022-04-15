@@ -14,3 +14,6 @@ i have done the couscous html file
 5th commit
 i have done the french fries html file
 
+6th commit
+i have done the strogonoff html file
+
