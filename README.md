@@ -17,3 +17,5 @@ i have done the french fries html file
 6th commit
 i have done the strogonoff html file
 
+7th commit
+i have done the ice cream html file and done the whole project
