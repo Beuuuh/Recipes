@@ -2,43 +2,73 @@
     box-sizing: border-box;
 }
 
-.title {
-    text-align: center;
-    border: 5px solid rgb(57, 58, 73);
-    padding: 10px;
+body {
+    background-color: #A9A4EB;
+}
+
+.introdutory-text {
     margin: 10px;
 }
 
+.title {
+    text-align: center;
+    border: 5px solid #4D4B6B;
+    padding: 10px;
+    margin: 10px;
+    background-color: #7B78AB;
+}
+
 .linksa{
-    border: 2px solid rgb(57, 58, 73);
+    border: 5px solid #4D4B6B;
+    border: 2px solid ;
     padding: 5px;
     padding-right: 35px;
+    background-color: #7B78AB;
+    margin: 10px;
+    font-weight: bold;
 }
 
 .linksb{
-    border: 2px solid rgb(57, 58, 73);
+    border: 5px solid #4D4B6B;
+    border: 2px solid ;
     padding: 5px;
     padding-right: 39px;
+    background-color: #7B78AB;
+    margin: 10px;
+    font-weight: bold;
 }
 
 .linksc{
-    border: 2px solid rgb(57, 58, 73);
+    border: 5px solid #4D4B6B;
+    border: 2px solid ;
     padding: 5px;
-    padding-right: 19px;
+    padding-right: 16px;
+    background-color: #7B78AB;
+    margin: 10px;
+    font-weight: bold;
 }
 
 .linksd{
-    border: 2px solid rgb(57, 58, 73);
+    border: 5px solid #4D4B6B;
+    border: 2px solid ;
     padding: 5px;
-    padding-right: 8px;
+    padding-right: 2px;
+    background-color: #7B78AB;
+    margin: 10px;
+    font-weight: bold;
 }
 
 .linkse{
-    border: 2px solid rgb(57, 58, 73);
+    border: 5px solid #4D4B6B;
+    border: 2px solid ;
     padding: 5px;
-    padding-right: 19px;
+    padding-right: 16px;
+    background-color: #7B78AB;
+    margin: 10px;
+    font-weight: bold;
 }
 
 #end {
     text-align: right;
+    font-weight: bold;
 }
