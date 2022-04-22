@@ -1,0 +1,44 @@
+* {
+    box-sizing: border-box;
+}
+
+.title {
+    text-align: center;
+    border: 5px solid rgb(57, 58, 73);
+    padding: 10px;
+    margin: 10px;
+}
+
+.linksa{
+    border: 2px solid rgb(57, 58, 73);
+    padding: 5px;
+    padding-right: 35px;
+}
+
+.linksb{
+    border: 2px solid rgb(57, 58, 73);
+    padding: 5px;
+    padding-right: 39px;
+}
+
+.linksc{
+    border: 2px solid rgb(57, 58, 73);
+    padding: 5px;
+    padding-right: 19px;
+}
+
+.linksd{
+    border: 2px solid rgb(57, 58, 73);
+    padding: 5px;
+    padding-right: 8px;
+}
+
+.linkse{
+    border: 2px solid rgb(57, 58, 73);
+    padding: 5px;
+    padding-right: 19px;
+}
+
+#end {
+    text-align: right;
+}
