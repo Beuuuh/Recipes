@@ -1,7 +1,23 @@
+* {
+    box-sizing: border-box;
+}
+
 body {
     background-color: #A9A4EB;
 }
 
-.title {
+.acaraje-title {
+    border: 5px solid #4D4B6B;
     text-align: center;
+    background-color: #7B78AB;
+    color: #22203b;
+}
+
+.acaraje-img {
+    text-align: center;
+}
+
+.acaraje-img img {
+    width: 200;
+    height: auto;
 }
