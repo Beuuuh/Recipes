@@ -1,0 +1,54 @@
+* {
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-color: #A9A4EB;
+}
+
+.title {
+    border: 5px solid #4D4B6B;
+    text-align: center;
+    background-color: #7B78AB;
+    color: #22203b;
+    margin: 10px;
+}
+
+.image {
+    text-align: center;
+}
+
+.image img {
+    border: 5px solid #4D4B6B;
+    margin: 10px;
+    width: 500px;
+    height: auto;
+}
+
+.desc {
+    margin-left: 10px;
+    text-align: center;
+}
+
+.paragraphs {
+    margin-left: 10px;
+    font-weight: bold;
+}
+
+.pfrst {
+    margin-top: -10px;
+    margin-bottom: -10px;
+}
+
+.ingredients {
+    margin-left: 10px;
+}
+
+.steps {
+    margin-left: 10px;
+}
+
+#end {
+    text-align: right;
+}
