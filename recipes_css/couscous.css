@@ -7,7 +7,7 @@ body {
     background-color: #A9A4EB;
 }
 
-.couscous-title {
+.title {
     border: 5px solid #4D4B6B;
     text-align: center;
     background-color: #7B78AB;
@@ -15,23 +15,23 @@ body {
     margin: 10px;
 }
 
-.couscous-img {
+.image {
     text-align: center;
 }
 
-.couscous-img img {
+.image img {
     border: 5px solid #4D4B6B;
     margin: 10px;
     width: 500px;
     height: auto;
 }
 
-.couscous-desc {
+.desc {
     margin-left: 10px;
     text-align: center;
 }
 
-.couscous-paragraphs {
+.paragraphs {
     margin-left: 10px;
     font-weight: bold;
 }
@@ -41,11 +41,11 @@ body {
     margin-bottom: -10px;
 }
 
-.couscous-ingredients {
+.ingredients {
     margin-left: 10px;
 }
 
-.couscous-steps {
+.steps {
     margin-left: 10px;
 }
 
